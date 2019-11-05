@@ -1,0 +1,7 @@
+{
+  "name": "polymerworkout",
+  "short_name": "polymerworkout",
+  "description": "testing polymer lit element",
+  "start_url": "/",
+  "display": "standalone"
+}
